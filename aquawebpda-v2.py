@@ -2,7 +2,7 @@
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
 # coding=utf-8
 
-"""Simulates Aqualink PDA remote with a RS485 interface."""
+"""Simulates Aqualink PDA remote with a RS485 interface"""
 
 import string
 import serial
